@@ -1,4 +1,6 @@
 # calculator
+![calculator 1](https://github.com/chandipriya228/caluculatorapp/assets/142013495/f96c8df0-57e7-4962-af49-ad8d22826875)
+![calculator 2](https://github.com/chandipriya228/caluculatorapp/assets/142013495/81e8aebb-05b4-4aa2-9ef1-77b4a41e8c3f)
 
 A new Flutter project.
 
